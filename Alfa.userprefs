@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DCI\Contexts\SaveGameToTextFile.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DCI\Data\DCIGraph.cs" Line="6" Column="47" />
+      <File FileName="Assets\Scripts\DCI\Contexts\SaveGameToTextFile.cs" Line="25" Column="24" />
+      <File FileName="Assets\Scripts\DCI\Contexts\Context.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DCI\Roles\Methodless\TextFileStorage.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\DCI\Roles\Methodless\GraphStorage.cs" Line="9" Column="20" />
+      <File FileName="Assets\Scripts\DCI\Utility\Options.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DCI\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DCI\Roles\Methodful\GraphDataTrait.cs" Line="17" Column="4" />
+      <File FileName="Assets\Scripts\DCI\Roles\Methodful\TextFileStorageTrait.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DCI\Data\DCINode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DCI\Data\DCIEdge.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
